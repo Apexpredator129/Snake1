@@ -15,7 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
-//new data //new data 2
+//new data //new data 2 //new data3
 
 
 # External tool builders
